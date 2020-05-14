@@ -7,14 +7,14 @@ Vue.config.productionTip = false
 
  //Firebase configuration
  var firebaseConfig = {
-  apiKey: "AIzaSyCGXAJcJD5bH-eorEh4rk4Qo-Gxn-q5IPA",
-  authDomain: "konecta-clima-99131.firebaseapp.com",
-  databaseURL: "https://konecta-clima-99131.firebaseio.com",
-  projectId: "konecta-clima-99131",
-  storageBucket: "konecta-clima-99131.appspot.com",
-  messagingSenderId: "366947859845",
-  appId: "1:366947859845:web:ac6278b373a6de24d4d8ec",
-  measurementId: "G-61NK6C2G0Q"
+  apiKey: "AIzaSyAXthc6t7XWZ0cZKuyZaFcAjQS4kG-zDcA",
+  authDomain: "klima-bfba1.firebaseapp.com",
+  databaseURL: "https://klima-bfba1.firebaseio.com",
+  projectId: "klima-bfba1",
+  storageBucket: "klima-bfba1.appspot.com",
+  messagingSenderId: "415651634194",
+  appId: "1:415651634194:web:b14d7db27677425d278ccb",
+  measurementId: "G-SD4KVV38GZ"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
